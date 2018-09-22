@@ -6,7 +6,7 @@ Dog Project it's a convolutional neural network (CNN) trained to process real-wo
 
 All requirements to run the application are available in the requirements.txt file. You will also need to download the VGG-16 file to train the neural network. You can download it using the link below:
 
-[VGG-16](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz)
+* [VGG-16](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz)
 
 Note: You will need to save the downloaded file inside the **bottleneck_features** folder.
 
